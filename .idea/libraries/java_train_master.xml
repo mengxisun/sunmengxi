@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-train-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-train-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
